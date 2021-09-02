@@ -1,5 +1,3 @@
-
-
 def thesaurus(*names):
     dict_of_names = {}
     for name in names:
